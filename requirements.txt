@@ -1,4 +1,7 @@
 numpy 
 pandas
 matplotlib
-warnings
+openpyxl
+math
+glob
+netCDF4
