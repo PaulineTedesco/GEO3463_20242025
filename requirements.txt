@@ -3,4 +3,4 @@ pandas
 matplotlib
 openpyxl
 netCDF4
-sklearn
+scikit-learn
