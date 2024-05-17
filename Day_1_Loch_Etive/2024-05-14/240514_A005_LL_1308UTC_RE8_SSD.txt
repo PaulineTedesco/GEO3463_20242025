@@ -2,8 +2,8 @@ Secchi Depth (cm) = 0643
 Forel Ule Scale = 13
 pH Colour Scale = 99
 SensingSecchi S/N = A005
-Latitude (degs N) = -999
-Longitude (degs E) = -999
+Latitude (degs N) = 56.46175
+Longitude (degs E) = -5.445966667
 Date = 2405141308
 Millisecond since start, Pressure (mbar) MS5803, Temp (deg C) MS5803, 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, 680nm, Clear, NIR
 343, 990.60, 16.11, 504, 733, 984, 1190, 1248, 1348, 1586, 1834, 7666, 3147
